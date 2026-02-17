@@ -57,13 +57,6 @@ The NeRF model was trained on a standard dataset ("Lego truck scene").
 
 ---
 
-## 📂 Repository Structure
-.
-├── StructureFromMotion.ipynb # SfM implementation notebook
-├── NERF.ipynb # NeRF training and rendering notebook
-├── report.pdf # Detailed project report
-└── images/ # Example reconstruction results
----
 ## ▶️ How to Run
 
 ### Option 1 — Google Colab (Recommended)
