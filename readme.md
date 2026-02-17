@@ -102,8 +102,8 @@ A detailed explanation of:
 * Challenges and limitations
 * Experimental results
 
-is available in:
-report.pdf
+📄 **Read the full report here:**  
+👉 [3D Reconstruction SfM + NeRF Report](./3D_Reconstruction_SfM_NeRF_Report_Jorge_Turriate.pdf)
 
 ## 🎓 Academic Context
 This project was developed as part of a Computer Vision / 3D Reconstruction coursework, focusing on:
